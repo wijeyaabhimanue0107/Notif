@@ -1,0 +1,26 @@
+{
+  "name": "notify",
+  "version": "1.0.0",
+  "description": "\"# Notif\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0",
+    "firebase-admin": "^8.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wijeyaabhimanue0107/Notif.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/wijeyaabhimanue0107/Notif/issues"
+  },
+  "homepage": "https://github.com/wijeyaabhimanue0107/Notif#readme"
+}
